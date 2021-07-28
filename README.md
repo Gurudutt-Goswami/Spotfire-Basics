@@ -17,7 +17,7 @@
 9)  [Remove Multiple Rows](#Remove-Multiple-rows)
 10) [How to make personalized Information Link in spotfire](#personalized-Information-Link-in-spotfire)
 11) [Library Administrator](#Library-Admin)
-12) [Map Layers in Spotfire](#Map Layer)
+12) [Map Layers in Spotfire](#Map-Layer)
 13) [Performance Tuning](#Performance-Tuning)
 14) [### In DB & In Memory Difference](####-In-DB-&-In-Memory-Difference)
 15) [Spotfire Mods](#Spotfire-Mods)
