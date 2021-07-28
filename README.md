@@ -6,7 +6,7 @@
 ##### Spotfire files ends with .Dxp extension which stands for 'Data Exploration'
 
 ### Topics in this 
-1) [How to setup Data Source](#How-to-setup-Data-Source?)
+1) [How to setup Data Source](#How-to-setup-Data-Source)
 2) [How to create an Information link?](#How-to-create-an-Information-link?)
 3) How to add column in Information Link?
 4) Spotfire Architecture
@@ -23,7 +23,7 @@
 15) Performance Tuning
 
 
-(### How to setup Data Source?)
+### How to setup Data Source
 
 Tools > Information Designer > Window (Setup Data Source) > 
 1) Name 
