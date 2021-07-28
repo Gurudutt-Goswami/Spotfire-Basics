@@ -100,15 +100,16 @@ https://www.youtube.com/watch?v=puc9gjv8_VI
 ![image](https://user-images.githubusercontent.com/86184439/127394321-fadfb579-38a3-4c4d-849a-143f8cc2c0b1.png)
 
 ### Map Layer
-Marker Layer: Responsible for showing exact point on the map using coordinatesq. Shape, size & color of the marker can be set by the author or based on the data.
-Feature Layer: Used for highlighting area of map. Usually based on shape file. Visualizations based on countries, states will be done by this.
-Image Layer: Used if you want to use your image as base layer.
-Map Layer: Refer to base maps included with the spotfire. Allow users to includes what in the chart like roads & border.
-WMS Layer: Allow User to use any web map server as base map rather than what spotfire provides.
+#### Marker Layer: Responible for showing exact point on the map using coordinatesq. Shape, size & color of the marker can be set by the author or based on the data.
+#### Feature Layer: Used for highlighting area of map. Usually based on shape file. Visualizations based on countries, states will be done by this.
+#### Image Layer: Used if you want to use your image as base layer.
+#### Map Layer: Refer to base maps included with the spotfire. Allow users to includes what in the chart like roads & border.
+#### WMS Layer: Allow User to use any web map server as base map rather than what spotfire provides.
 
 ### Performance Tuning
 1) Remove unnecessary columns from the IL & DOD panel.
 2) Make use of load on demand feature.
+
 ![image](https://user-images.githubusercontent.com/86184439/127395389-5a25c839-99a3-4ce4-a924-0e4644750db0.png)
 If you want to show only certain data in the dxp while loading then you can use load on demand which asks for you to define input i.e., columns on which you want to filter out and then the values for that column (fixed or range of values).
 Watch Video: https://www.youtube.com/watch?v=-2LypN_vWwI
