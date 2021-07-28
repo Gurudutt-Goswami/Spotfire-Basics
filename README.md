@@ -1,4 +1,4 @@
-# Spotfire-Basics
+# Spotfire-Fundamentals
 #### To get kick start please visit Tibco official site : https://www.tibco.com/products/tibco-spotfire/learn/videos.
 #### Also @TIBCO-Software-Inc. owns all the Credits for following content as well.
 #### Please feel free to raise Pull Requests I will be more than happy to merge it out other things as well !!!
