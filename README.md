@@ -6,8 +6,8 @@
 ##### (Spotfire files ends with .Dxp extension which stands for 'Data Exploration')
 
 ### Topics
-1) [How to setup Data Source](#How-to-setup-Data-Source)
-2) [How to create an Information link](#How-to-create-an-Information-link)
+1) [Setup Data Source](#How-to-setup-Data-Source)
+2) [Creating an Information link](#How-to-create-an-Information-link)
 3) [How to add column in Information Link](#How-to-add-column-in-Information-Link)
 4) [Spotfire Architecture](#Spotfire-Architecture)
 5) [Spotfire Automation Service](#Spotfire-Automation-Service)
@@ -38,6 +38,8 @@ Tools > Information Designer > Window (Setup Data Source) >
 
 ### How to create an information Link
 An information link is a database query specifying the columns to be loaded and any filters needed to narrow down the data table prior to creating visualizations in TIBCO Spotfire. In Information Designer, information links are created from building blocks such as columns and filters using joins, calculations and aggregations.
+
+https://docs.tibco.com/pub/sfire-analyst/10.10.0/doc/html/en-US/TIB_sfire-analyst_UsersGuide/id/id_information_links.htm
 
 1) Create a table in database. (so that we can pull it into Spotfire)
 
