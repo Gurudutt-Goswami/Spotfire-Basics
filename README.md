@@ -1,12 +1,12 @@
 # Spotfire-Basics
-### To get kick start please visit Tibco official site : https://www.tibco.com/products/tibco-spotfire/learn/videos.
-### Also @Tibco owns all the Credits for followin content as well.
-### Please feel free to raise Pull Requests I will be more than happy to merge it out other things as well !!!
+#### To get kick start please visit Tibco official site : https://www.tibco.com/products/tibco-spotfire/learn/videos.
+#### Also @Tibco owns all the Credits for followin content as well.
+#### Please feel free to raise Pull Requests I will be more than happy to merge it out other things as well !!!
 
 ##### Spotfire files ends with .Dxp extension which stands for 'Data Exploration'
 
 ### Topics in this 
-•	How to setup Data Source
+[How to setup Data Source](#How-to-setup-Data-Source?)
 •	How to create an Information link?
 •	How to add column in Information Link?
 •	Spotfire Architecture 
