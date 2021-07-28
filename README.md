@@ -13,14 +13,14 @@
 5) [Spotfire Automation Service](#Spotfire-Automation-Service)
 6) [Spotfire Client](#Spotfire-Client)
 7) [Clickable link in spotfire](#Clickable-link-in-spotfire)
-9) [Edit transformation in Spotfire](#Edit-transformation-in-Spotfire-once-created)
-10)[Remove Multiple Rows](#Remove-Multiple-rows)
-12)[How to make personalized Information Link in spotfire](#personalized-Information-Link-in-spotfire)
-13)[Library Administrator](#Library-Admin)
-14)[Map Layers in Spotfire](#Map Layer)
-15)[Performance Tuning](#Performance-Tuning)
-16)[### In DB & In Memory Difference](####-In-DB-&-In-Memory-Difference)
-17)[Spotfire Mods](#Spotfire-Mods)
+8) [Edit transformation in Spotfire](#Edit-transformation-in-Spotfire-once-created)
+9)  [Remove Multiple Rows](#Remove-Multiple-rows)
+10) [How to make personalized Information Link in spotfire](#personalized-Information-Link-in-spotfire)
+11) [Library Administrator](#Library-Admin)
+12) [Map Layers in Spotfire](#Map Layer)
+13) [Performance Tuning](#Performance-Tuning)
+14) [### In DB & In Memory Difference](####-In-DB-&-In-Memory-Difference)
+15) [Spotfire Mods](#Spotfire-Mods)
 
 
 ### How to setup Data Source
