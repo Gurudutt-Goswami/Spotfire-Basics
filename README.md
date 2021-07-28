@@ -3,7 +3,7 @@
 #### Also @TIBCO-Software-Inc. owns all the Credits for following content as well.
 #### Please feel free to raise Pull Requests I will be more than happy to merge it out other things as well !!!
 
-(##### Spotfire files ends with .Dxp extension which stands for 'Data Exploration')
+##### (Spotfire files ends with .Dxp extension which stands for 'Data Exploration')
 
 ### Topics
 1) [How to setup Data Source](#How-to-setup-Data-Source)
