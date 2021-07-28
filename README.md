@@ -51,6 +51,8 @@ Tools > Information Designer > Multiple Columns (start tab) > Select Table from 
 3) Now go to Tools > Information Designer > Start (tab) > Create Information link > select columns (or folder) from Elements > Add > Save Created Information Link in the library.
 
 
+
+
 ![image](https://user-images.githubusercontent.com/86184439/127391394-db7f6b57-9bd7-4846-8214-7eba0f6ad926.png)
 
 ### How to add column in Information Link
