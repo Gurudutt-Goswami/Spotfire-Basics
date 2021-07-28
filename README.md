@@ -41,12 +41,14 @@ Q. What is information link?
 An information link is a database query specifying the columns to be loaded and any filters needed to narrow down the data table prior to creating visualizations in TIBCO Spotfire. In Information Designer, information links are created from building blocks such as columns and filters using joins, calculations and aggregations.
 
 1) Create a table in database. (so that we can pull it into Spotfire)
+
 ![Table](https://user-images.githubusercontent.com/86184439/127391538-14cf3417-af97-4587-93d7-717e7b1bc90a.PNG)
 
 2) We have to create multiple columns in spotfire (using info designer) & have to save it in library, so that spotfire can able to understand it.
 Tools > Information Designer > Multiple Columns (start tab) > Select Table from DB (from data source) > Add > save it in library. (See below)
 
 ![image](https://user-images.githubusercontent.com/86184439/127389764-97bb4693-6906-4068-b774-6a073b234d44.png)
+
 3) Now go to Tools > Information Designer > Start (tab) > Create Information link > select columns (or folder) from Elements > Add > Save Created Information Link in the library.
 ![image](https://user-images.githubusercontent.com/86184439/127391394-db7f6b57-9bd7-4846-8214-7eba0f6ad926.png)
 
