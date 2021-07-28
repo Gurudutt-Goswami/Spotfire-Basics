@@ -7,7 +7,7 @@
 
 ### Topics
 1) [How to setup Data Source](#How-to-setup-Data-Source)
-2) [How to create an Information link?](#How-to-create-an-Information-link)
+2) [How to create an Information link](#How-to-create-an-Information-link)
 3) [How to add column in Information Link](#How-to-add-column-in-Information-Link)
 4) [Spotfire Architecture](#Spotfire-Architecture)
 5) [Spotfire Automation Service](#Spotfire-Automation-Service)
@@ -19,7 +19,7 @@
 11) [Library Administrator](#Library-Admin)
 12) [Map Layers in Spotfire](#Map-Layer)
 13) [Performance Tuning](#Performance-Tuning)
-14) [### In DB & In Memory Difference](####-In-DB-&-In-Memory-Difference)
+14) [In DB & In Memory Difference](#In-DB-&-In-Memory-Difference)
 15) [Spotfire Mods](#Spotfire-Mods)
 
 
