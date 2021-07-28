@@ -19,7 +19,7 @@
 11) [Library Administrator](#Library-Admin)
 12) [Map Layers in Spotfire](#Map-Layer)
 13) [Performance Tuning](#Performance-Tuning)
-14) [In DB & In Memory Difference](#In-DB-&-In-Memory-Difference)
+14) [In DB & In Memory Difference](#In-DB-and-In-Memory-Difference)
 15) [Spotfire Mods](#Spotfire-Mods)
 
 
@@ -116,7 +116,7 @@ Watch Video: https://www.youtube.com/watch?v=-2LypN_vWwI
 6) Load only that Api’s in ironpython which is needed.
 7) From Database side you can make use of indexes (especially clustered indexes), Procedures, Functions, Union All instead of Union, caching to load data faster etc.
 
-### In DB & In Memory Difference
+### In DB and In Memory Difference
 https://docs.tibco.com/pub/sfire-cloud/area/doc/html/en-US/TIB_sfire_bauthor-consumer_usersguide/bauthcons/topics/en-US/in-database_and_in-memory_data_loading_in_the_tibco_cloud_spotfire_web_client.html
 
 ### Spotfire Mods 
