@@ -80,7 +80,7 @@ https://docs.tibco.com/pub/spotfire_server/7.6.1/doc/html/tsas_admin_help/GUID-9
 ### Clickable link in spotfire 
 Go to Columns Properties tab and select that column > Properties Tab > Link Template > {$}
 If you have any part of link at the end of and static URL then you can add {$} after that static URL in the link template section of the specific column eg.
-www.sometimes.com/345656467/{$}
+www.some_site_name_here.com/345656467/{$}
 
 ### Edit transformation in Spotfire once created
 Note: The following steps are applicable for lower version of Spotfire in 10+ you can directly edit using Canvas
