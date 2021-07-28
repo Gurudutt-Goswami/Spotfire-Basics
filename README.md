@@ -100,11 +100,11 @@ https://www.youtube.com/watch?v=puc9gjv8_VI
 ![image](https://user-images.githubusercontent.com/86184439/127394321-fadfb579-38a3-4c4d-849a-143f8cc2c0b1.png)
 
 ### Map Layer
-#### Marker Layer: Responible for showing exact point on the map using coordinatesq. Shape, size & color of the marker can be set by the author or based on the data.
-#### Feature Layer: Used for highlighting area of map. Usually based on shape file. Visualizations based on countries, states will be done by this.
-#### Image Layer: Used if you want to use your image as base layer.
-#### Map Layer: Refer to base maps included with the spotfire. Allow users to includes what in the chart like roads & border.
-#### WMS Layer: Allow User to use any web map server as base map rather than what spotfire provides.
+1) Marker Layer: Responible for showing exact point on the map using coordinatesq. Shape, size & color of the marker can be set by the author or based on the data.
+2) Feature Layer: Used for highlighting area of map. Usually based on shape file. Visualizations based on countries, states will be done by this.
+3) Image Layer: Used if you want to use your image as base layer.
+4) Map Layer: Refer to base maps included with the spotfire. Allow users to includes what in the chart like roads & border.
+5) WMS Layer: Allow User to use any web map server as base map rather than what spotfire provides.
 
 ### Performance Tuning
 1) Remove unnecessary columns from the IL & DOD panel.
