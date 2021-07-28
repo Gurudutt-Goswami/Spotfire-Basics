@@ -111,7 +111,9 @@ https://www.youtube.com/watch?v=puc9gjv8_VI
 2) Make use of load on demand feature.
 
 ![image](https://user-images.githubusercontent.com/86184439/127395389-5a25c839-99a3-4ce4-a924-0e4644750db0.png)
+
 If you want to show only certain data in the dxp while loading then you can use load on demand which asks for you to define input i.e., columns on which you want to filter out and then the values for that column (fixed or range of values).
+
 Watch Video: https://www.youtube.com/watch?v=-2LypN_vWwI
 
 3) Make use of Prompts.
