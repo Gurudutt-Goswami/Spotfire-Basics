@@ -36,7 +36,7 @@ Tools > Information Designer > Window (Setup Data Source) >
 
 ![image](https://user-images.githubusercontent.com/86184439/127389321-cce54957-8441-4a35-ae63-f4c08ec8c79f.png)
 
-### How to create information Link
+### How to create an information Link
 Q. What is information link?
 An information link is a database query specifying the columns to be loaded and any filters needed to narrow down the data table prior to creating visualizations in TIBCO Spotfire. In Information Designer, information links are created from building blocks such as columns and filters using joins, calculations and aggregations.
 
