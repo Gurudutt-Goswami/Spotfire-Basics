@@ -59,12 +59,15 @@ Tools > Information Designer > Multiple Columns (start tab) > Select Table from 
 
 ### How to add column in Information Link
 1) Add column name in database table. Then we will create a column using information designer (start tab) > column.
+
 ![new column](https://user-images.githubusercontent.com/86184439/127391729-86bbf03a-944a-4190-859a-fa0494da6bfc.PNG)
 
 2) Now select that column which you have to add from data source.
+
 ![image](https://user-images.githubusercontent.com/86184439/127391792-88b90f07-e102-4cf8-ab5d-c3f61a7d977f.png)
 
 3) Now we will open that information link (by double clicking) in which we want to add this column and then add it > save.
+
 ![image](https://user-images.githubusercontent.com/86184439/127391838-965e22a4-8eee-4ae5-bf62-c45f008ed71b.png)
 
 ### Spotfire Architecture
