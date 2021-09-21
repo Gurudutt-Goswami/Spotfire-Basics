@@ -138,9 +138,9 @@ https://www.tibco.com/products/tibco-spotfire/custom-analytics-apps-mods
 https://github.com/TIBCOSoftware/spotfire-mods
 
 ### Spotfire Alerts
-https://community.tibco.com/wiki/spotfire-alerting-extension  
-https://media.tibco.com/video/tibco_120116_tibco_analytics_meetup_segment2/?_ga=2.148257847.1236992129.1632249756-1900137379.1607341484  
-https://www.youtube.com/watch?v=gBKB6HNq4zc  
+1. https://community.tibco.com/wiki/spotfire-alerting-extension  
+2. https://media.tibco.com/video/tibco_120116_tibco_analytics_meetup_segment2/?_ga=2.148257847.1236992129.1632249756-1900137379.1607341484  
+3. https://www.youtube.com/watch?v=gBKB6HNq4zc  
 
 
 
