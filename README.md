@@ -21,6 +21,7 @@
 13) [Performance Tuning](#Performance-Tuning)
 14) [In DB & In Memory Difference](#In-DB-and-In-Memory-Difference)
 15) [Spotfire Mods](#Spotfire-Mods)
+16) [Spotfire Alerts](#Spotfire-Alerts)
 
 
 ### How to setup Data Source
@@ -135,3 +136,8 @@ https://docs.tibco.com/pub/sfire-cloud/area/doc/html/en-US/TIB_sfire_bauthor-con
 ### Spotfire Mods 
 https://www.tibco.com/products/tibco-spotfire/custom-analytics-apps-mods
 https://github.com/TIBCOSoftware/spotfire-mods
+
+### Spotfire Alerts
+https://www.youtube.com/watch?v=gBKB6HNq4zc
+
+
