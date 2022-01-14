@@ -143,5 +143,9 @@ https://github.com/TIBCOSoftware/spotfire-mods
 3. https://www.youtube.com/watch?v=gBKB6HNq4zc  
 
 
+### EPAM Documenter Tool
+Using this one can easily get each and every details related to any dashboard like visuals details , scripts, document properties , markings etc in a word document. To use this it should be enabled first, let's say it's available in Dev env then you need to go to Tools > DXP Documenter Tool in spotfire client, then you need to browse the sample document template so that tool will recognize how it should come in word & then the dashboard itself (from the library), in case your dashboard is not available in library then you need to first save it in the respective environment in which is enabled & that's all.
+
+To get easier understand see a 1 min Video : https://solutionshub.epam.com/solution/epam-dxp-documenter
 
 
