@@ -22,6 +22,7 @@
 14) [In DB & In Memory Difference](#In-DB-and-In-Memory-Difference)
 15) [Spotfire Mods](#Spotfire-Mods)
 16) [Spotfire Alerts](#Spotfire-Alerts)
+17) [EPAM Documenter Tool](#EPAM-Documenter-Tool)
 
 
 ### How to setup Data Source
