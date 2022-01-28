@@ -23,6 +23,7 @@
 15) [Spotfire Mods](#Spotfire-Mods)
 16) [Spotfire Alerts](#Spotfire-Alerts)
 17) [EPAM Documenter Tool](#EPAM-Documenter-Tool)
+18) [Paragraph Editing as that of DB](#Paragraph-Editing-as-that-of-DB)
 
 
 ### How to setup Data Source
@@ -150,3 +151,11 @@ Using this one can easily get each and every details related to any dashboard li
 To get easier understand see a 1 min Video : https://solutionshub.epam.com/solution/epam-dxp-documenter
 
 
+### Paragraph Editing as that of DB
+Just keep you column that needs same alignment as that of DB in between following tags.
+
+<PRE style="WORD-WRAP: break-word; WHITE-SPACE: pre-wrap; PADDING-LEFT: 3px; PADDING-RIGHT: 3px">
+	<P align=left style="font-size:15px;">
+	<SpotfireControl id="2f57194fd79a4837a3190adc6937de9a" />
+	</P>
+</PRE>
