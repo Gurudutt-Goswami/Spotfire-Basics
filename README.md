@@ -24,7 +24,7 @@
 16) [Spotfire Alerts](#Spotfire-Alerts)
 17) [EPAM Documenter Tool](#EPAM-Documenter-Tool)
 18) [Paragraph Editing as that of DB](#Paragraph-Editing-as-that-of-DB)
-
+19) [How to give access for public bookmarks ](#How-to-give-access-for-public-bookmarks-)
 
 ### How to setup Data Source
 
@@ -160,3 +160,7 @@ Just keep you column that needs same alignment as that of DB in between followin
 	</P>
 </PRE>
 ```
+
+### How to give access for public bookmarks 
+See image in following link
+https://support.tibco.com/s/article/Users-are-unable-to-add-new-bookmarks-to-a-TIBCO-Spotfire-analysis
